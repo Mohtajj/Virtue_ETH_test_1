@@ -1,0 +1,53 @@
+{
+  "image": "https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/2104.png",
+  "description": "This token is verifiable for admission to VeeCon 2022, 2023, 2024\n\nThis token is a collectible that lives on the Ethereum blockchain\n\nAdditional Content:\n\n- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4172.svg)\n- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4116.png) \n- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/2085.mp4)\n- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/2171.jpg) \n",
+  "external_url": "https://veefriends/friends/friends/7572-Profound-Possum",
+  "name": "Profound Possum",
+  "attributes": [
+    {
+      "trait_type": "Editions",
+      "value": "1 of 20"
+    },
+    {
+      "trait_type": "Edition #",
+      "value": "3"
+    },
+    {
+      "trait_type": "Birthday",
+      "value": 1620848244,
+      "display_type": "date"
+    },
+    {
+      "trait_type": "OG Buyer",
+      "value": "0xCBEF2B5D1a570CA9204Aaf35E6f4B3579F80c9eB"
+    },
+    {
+      "trait_type": "OG Price",
+      "value": "0.5 Ξ"
+    },
+    {
+      "trait_type": "adjective",
+      "value": "Profound"
+    },
+    {
+      "trait_type": "animal",
+      "value": "Possum"
+    },
+    {
+      "trait_type": "category",
+      "value": "Mammal"
+    },
+    {
+      "trait_type": "group",
+      "value": "Admission"
+    },
+    {
+      "trait_type": "conference",
+      "value": "Core"
+    },
+    {
+      "trait_type": "creator",
+      "value": "VeeFriends"
+    }
+  ]
+}
